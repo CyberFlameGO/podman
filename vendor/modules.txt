@@ -300,7 +300,7 @@ github.com/coreos/stream-metadata-go/release
 github.com/coreos/stream-metadata-go/release/rhcos
 github.com/coreos/stream-metadata-go/stream
 github.com/coreos/stream-metadata-go/stream/rhcos
-# github.com/cyphar/filepath-securejoin v0.2.3
+# github.com/cyphar/filepath-securejoin v0.2.4
 ## explicit
 github.com/cyphar/filepath-securejoin
 # github.com/davecgh/go-spew v1.1.1
